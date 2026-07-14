@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "ticker": "BRK-B",
+    "name": "Berkshire",
+    "color": "#00d4ff",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-10",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-10"
+    ]
+  },
+  {
+    "ticker": "JPM",
+    "name": "JPMorgan",
+    "color": "#f59e0b",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-10",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-10"
+    ]
+  },
+  {
+    "ticker": "V",
+    "name": "Visa",
+    "color": "#10b981",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-10",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-10"
+    ]
+  },
+  {
+    "ticker": "MA",
+    "name": "Mastercard",
+    "color": "#f97316",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-10",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-10"
+    ]
+  },
+  {
+    "ticker": "BAC",
+    "name": "Bank of America",
+    "color": "#8b5cf6",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-10",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-10"
+    ]
+  },
+  {
+    "ticker": "GS",
+    "name": "Goldman Sachs",
+    "color": "#ec4899",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-10",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-10"
+    ]
+  },
+  {
+    "ticker": "WFC",
+    "name": "Wells Fargo",
+    "color": "#06b6d4",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-10",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-10"
+    ]
+  },
+  {
+    "ticker": "C",
+    "name": "Citigroup",
+    "color": "#84cc16",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-10",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-10"
+    ]
+  },
+  {
+    "ticker": "MS",
+    "name": "Morgan Stanley",
+    "color": "#f43f5e",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-10",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-10"
+    ]
+  },
+  {
+    "ticker": "AXP",
+    "name": "Amex",
+    "color": "#a78bfa",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-10",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-10"
+    ]
+  },
+  {
+    "ticker": "SCHW",
+    "name": "Charles Schwab",
+    "color": "#22c55e",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-10",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-10"
+    ]
+  },
+  {
+    "ticker": "BLK",
+    "name": "BlackRock",
+    "color": "#eab308",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-10",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-10"
+    ]
+  },
+  {
+    "ticker": "SPGI",
+    "name": "S&P Global",
+    "color": "#14b8a6",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-10",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-10"
+    ]
+  },
+  {
+    "ticker": "COF",
+    "name": "Capital One",
+    "color": "#ef4444",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-10",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-10"
+    ]
+  },
+  {
+    "ticker": "CB",
+    "name": "Chubb",
+    "color": "#6366f1",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-10",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-10"
+    ]
+  },
+  {
+    "ticker": "PGR",
+    "name": "Progressive",
+    "color": "#d946ef",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-10",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-10"
+    ]
+  },
+  {
+    "ticker": "CME",
+    "name": "CME Group",
+    "color": "#0ea5e9",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-10",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-10"
+    ]
+  },
+  {
+    "ticker": "BX",
+    "name": "Blackstone",
+    "color": "#65a30d",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-10",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-10"
+    ]
+  },
+  {
+    "ticker": "ICE",
+    "name": "Intercont. Exch.",
+    "color": "#c026d3",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-10",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-10"
+    ]
+  },
+  {
+    "ticker": "BK",
+    "name": "BNY Mellon",
+    "color": "#facc15",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-10",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-10"
+    ]
+  }
+]
