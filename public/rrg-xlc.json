@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "ticker": "META",
+    "name": "Meta",
+    "color": "#00d4ff",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-17",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-17"
+    ]
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet A",
+    "color": "#f59e0b",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-17",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-17"
+    ]
+  },
+  {
+    "ticker": "NFLX",
+    "name": "Netflix",
+    "color": "#10b981",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-17",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-17"
+    ]
+  },
+  {
+    "ticker": "DIS",
+    "name": "Disney",
+    "color": "#f97316",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-17",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-17"
+    ]
+  },
+  {
+    "ticker": "TMUS",
+    "name": "T-Mobile",
+    "color": "#8b5cf6",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-17",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-17"
+    ]
+  },
+  {
+    "ticker": "VZ",
+    "name": "Verizon",
+    "color": "#ec4899",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-17",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-17"
+    ]
+  },
+  {
+    "ticker": "T",
+    "name": "AT&T",
+    "color": "#06b6d4",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-17",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-17"
+    ]
+  },
+  {
+    "ticker": "CHTR",
+    "name": "Charter",
+    "color": "#84cc16",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-17",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-17"
+    ]
+  },
+  {
+    "ticker": "EA",
+    "name": "EA",
+    "color": "#f43f5e",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-17",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-17"
+    ]
+  },
+  {
+    "ticker": "TTWO",
+    "name": "Take-Two",
+    "color": "#a78bfa",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-17",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-17"
+    ]
+  },
+  {
+    "ticker": "FOXA",
+    "name": "Fox A",
+    "color": "#22c55e",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-17",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-17"
+    ]
+  },
+  {
+    "ticker": "WBD",
+    "name": "Warner Bros.",
+    "color": "#eab308",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-17",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-17"
+    ]
+  },
+  {
+    "ticker": "OMC",
+    "name": "Omnicom",
+    "color": "#14b8a6",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-17",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-17"
+    ]
+  },
+  {
+    "ticker": "LYV",
+    "name": "Live Nation",
+    "color": "#ef4444",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-17",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-17"
+    ]
+  },
+  {
+    "ticker": "NWSA",
+    "name": "News Corp A",
+    "color": "#6366f1",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-17",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-17"
+    ]
+  },
+  {
+    "ticker": "CMCSA",
+    "name": "Comcast",
+    "color": "#d946ef",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-17",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-17"
+    ]
+  },
+  {
+    "ticker": "SATS",
+    "name": "EchoStar",
+    "color": "#0ea5e9",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-17",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-17"
+    ]
+  },
+  {
+    "ticker": "TKO",
+    "name": "TKO Group",
+    "color": "#65a30d",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-17",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-17"
+    ]
+  },
+  {
+    "ticker": "TTD",
+    "name": "Trade Desk",
+    "color": "#c026d3",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-17",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-17"
+    ]
+  },
+  {
+    "ticker": "PSKY",
+    "name": "Paramount Skydance",
+    "color": "#facc15",
+    "rs": 100.0,
+    "mom": 100.0,
+    "trail": [
+      {
+        "date": "2026-07-17",
+        "rs": 100.0,
+        "mom": 100.0
+      }
+    ],
+    "dates": [
+      "2026-07-17"
+    ]
+  }
+]
