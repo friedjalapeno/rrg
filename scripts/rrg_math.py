@@ -268,19 +268,20 @@ SECTOR_HOLDINGS: Dict[str, List[Dict[str, str]]] = {
         {"ticker": "VZ",     "name": "Verizon",         "color": "#ec4899"},
         {"ticker": "T",      "name": "AT&T",            "color": "#06b6d4"},
         {"ticker": "CHTR",   "name": "Charter",         "color": "#84cc16"},
-        {"ticker": "EA",     "name": "EA",              "color": "#f43f5e"},
+        {"ticker": "APP",    "name": "AppLovin",        "color": "#f43f5e"},
         {"ticker": "TTWO",   "name": "Take-Two",        "color": "#a78bfa"},
         {"ticker": "FOXA",   "name": "Fox A",           "color": "#22c55e"},
-        {"ticker": "WBD",    "name": "Warner Bros.",    "color": "#eab308"},
+        {"ticker": "RDDT",   "name": "Reddit",          "color": "#eab308"},
         {"ticker": "OMC",    "name": "Omnicom",         "color": "#14b8a6"},
         {"ticker": "LYV",    "name": "Live Nation",     "color": "#ef4444"},
         {"ticker": "NWSA",   "name": "News Corp A",     "color": "#6366f1"},
         {"ticker": "CMCSA",  "name": "Comcast",         "color": "#d946ef"},
-        {"ticker": "SATS",   "name": "EchoStar",        "color": "#0ea5e9"},
+        {"ticker": "ECHO",   "name": "EchoStar",        "color": "#0ea5e9"},
         {"ticker": "TKO",    "name": "TKO Group",       "color": "#65a30d"},
         {"ticker": "TTD",    "name": "Trade Desk",      "color": "#c026d3"},
-        {"ticker": "PSKY",   "name": "Paramount Skydance", "color": "#facc15"},
+        {"ticker": "SKYD",   "name": "Skydance",        "color": "#facc15"},
     ],
+
 }
 
 
